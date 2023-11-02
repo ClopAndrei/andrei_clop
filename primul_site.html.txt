@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>Prezentare</title>
+</head>
+
+<body>
+
+<h1>Nume:   Clop</h1>
+<h3>Prenume:  Andrei</h3>
+<h6>Email:adrianclop@yahoo.com</h6>
+<img src="crap.img">
+<h6>Asteptari educationale:</h6>
+    <p>Sa trec la Orzan</p>
+
+<table>
+<tr>
+<th>disciplina</th>
+<th>an</th>
+<th>link</th>
+</tr>
+
+<tr>
+<td>Info aplicata</td>
+<td>1</td>
+<td><a href="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/06.pdf">IA</a></td>
+</tr>
+
+<tr>
+<td>Prog</td>
+<td>1</td>
+<td><a href="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/TstRo/11a.pdf">PROG</a></td>
+</tr>
+
+<tr>
+<td>Analiza</td>
+<td>1</td>
+<td><a href="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/TstRo/01a.pdf">Analiza</a></td>
+</tr>
+
+<tr>
+<td>CCP</td>
+<td>1</td>
+<td><a href="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/TstRo/05a.pdf">CCP</a></td>
+</tr>
+
+
+<h6>Hobby-uri:</h6>
+<ul>
+<li>enduro</li>
+<li>pescuit</li>
+<li>snowmobile</li>
+</ul>
+
+
+</table>
+
+
+
+
+
+
+</body>
+</html>
