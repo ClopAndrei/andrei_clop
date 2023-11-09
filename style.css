@@ -1,0 +1,32 @@
+
+h1 {background-color:lightblue}
+h1{text-align:center}
+h3{background-color:lightblue}
+h3{text-align:center}
+.a{
+font-size:20px;
+border-style: ridge;
+}
+#poza{
+border-radius:200px;
+margin-left:50px;
+}
+.b{
+font-size:20px;
+ text-decoration-line: underline;
+margin-bottom: 5px;
+}
+.p{
+background-color:yellow;
+}
+
+.c{
+font-size:20px;
+ text-decoration-line: underline;
+margin-bottom: 5px;
+}
+
+table, th, td{
+border:2px solid;
+}
+
