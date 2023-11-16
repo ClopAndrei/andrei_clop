@@ -1,11 +1,11 @@
 //Cache the DOM
-var buton = document.getElemntById("buton")
-var body = document.getElemntById("body")
-var nume = document.getElemntById("nume")
-var prenume = document.getElemntById("prenume")
-var asteptari = document.getElemntById("asteptari")
-var img = document.getElemntById("img")
-var an = document.getElemntById("anNastere")
+var buton = document.getElementById("buton")
+var body = document.getElementById("body")
+var nume = document.getElementById("nume")
+var prenume = document.getElementById("prenume")
+var asteptari = document.getElementById("asteptari")
+var img = document.getElementById("img")
+var an = document.getElementById("anNastere")
 
 const d = new Date()
 var year = d.getFullYear()
@@ -27,7 +27,7 @@ function altaViata()
 	
 	body.style.backgroundColor = "orange"
 	body.style.color = "blue"
-	buton.text-align:center
+	
 }
 
 function displayAge()
